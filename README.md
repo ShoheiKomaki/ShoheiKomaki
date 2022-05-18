@@ -1,5 +1,5 @@
-- 👋 I’m Shohei Komaki, a PostDoc of Iwate Medical University, Japan.
-- 👀 I’m currently working on bioinformatics especially focusing on DNA methylation and gene expression of human.
+- 👋 I’m Shohei Komaki, a PostDoc in Iwate Medical University, Japan.
+- 👀 I’m currently working on clinical bioinformatics especially focusing on DNA methylation and gene expression of human.
 - 🌱 I’m also interested in ecology and evolution of amphibians.
 - 📫 How to reach me: visit [this website](https://sites.google.com/site/skomaki1987/home)
 
